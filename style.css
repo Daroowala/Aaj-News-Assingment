@@ -1,0 +1,25 @@
+.p1{
+    color: chocolate;  
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    display: block;
+    font-size: medium;
+}
+.p2{
+    color: lightslategray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    display: block;
+    font-size: medium; 
+}
+.p4{
+    color: chocolate;  
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    display: block;
+    font-size: medium;
+    font-weight: 800; 
+}
+.p3{
+    
+}
