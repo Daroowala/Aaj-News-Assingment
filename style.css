@@ -1,25 +1,33 @@
-.p1{
-    color: chocolate;  
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-style: italic;
-    display: block;
-    font-size: medium;
+.p1 {
+  color: chocolate;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-style: italic;
+  display: block;
+  font-size: medium;
 }
-.p2{
-    color: lightslategray;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-style: italic;
-    display: block;
-    font-size: medium; 
+.p2 {
+  color: lightslategray;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-style: italic;
+  display: block;
+  font-size: medium;
 }
-.p4{
-    color: chocolate;  
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-style: italic;
-    display: block;
-    font-size: medium;
-    font-weight: 800; 
+.p4 {
+  color: chocolate;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-style: italic;
+  display: block;
+  font-size: medium;
+  font-weight: 800;
+}
+.p5 {
+  color: lightslategray;
+  font-style: italic;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: right;
+  vertical-align: top;
 }
 .p3{
-    
+    display: flex;
+    justify-content: center;
 }
