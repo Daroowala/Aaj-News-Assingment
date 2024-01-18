@@ -1,25 +1,33 @@
-.p1 {
+h3{
   color: chocolate;
-  font-family: Georgia, "Times New Roman", Times, serif;
   font-style: italic;
-  display: block;
-  font-size: medium;
+  font-size: 1.1rem;
+  text-decoration: underline;
+  text-underline-offset: 10px;
+  text-decoration-color: green;
 }
-.p2 {
+.a2{
   color: lightslategray;
-  font-family: Georgia, "Times New Roman", Times, serif;
+  opacity: calc(1);
   font-style: italic;
-  display: block;
-  font-size: medium;
+  font-size: 1.1rem;
+  text-decoration: underline;
+  text-underline-offset: 10px;
+  text-decoration-color: green;
 }
-.p4 {
-  color: chocolate;
-  font-family: Georgia, "Times New Roman", Times, serif;
+.a3{
+  color: lightslategray;
+  opacity: calc(1);
   font-style: italic;
-  font-size: medium;
-  font-weight: 800;
+  font-size: 1.1rem;
+  text-underline-offset: 10px
+}
+.a4{
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  left: 38%;
+  top: 0.50%;
   
- 
-
+  
 }
-
