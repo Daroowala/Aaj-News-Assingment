@@ -5,6 +5,9 @@ h3{
   text-decoration: underline;
   text-underline-offset: 10px;
   text-decoration-color: green;
+  position: absolute;
+  left: 10%;
+  top: 1.5%;
 }
 .a2{
   color: lightslategray;
@@ -14,20 +17,65 @@ h3{
   text-decoration: underline;
   text-underline-offset: 10px;
   text-decoration-color: green;
+  position: absolute;
+  left: 7%;
+  top: 7.5%;
+  font-weight: bold;
 }
 .a3{
   color: lightslategray;
   opacity: calc(1);
   font-style: italic;
   font-size: 1.1rem;
-  text-underline-offset: 10px
+  text-underline-offset: 10px;
+  position: absolute;
+  left: 9%;
+  top: 14%;
+  font-weight: bold;
 }
 .a4{
   display: flex;
   justify-content: center;
   position: absolute;
-  left: 38%;
+  left: 40%;
   top: 0.50%;
-  
-  
-}
+  width: 150px;
+  height: 150px;
+  }
+  .a5{
+    color: chocolate;
+  font-style: italic;
+  font-size: 1.5rem;
+  text-decoration: underline;
+  text-underline-offset: 10px;
+  text-decoration-color: green;
+  font-weight: 800;
+  letter-spacing: 0.15rem;
+  position: absolute;
+  left: 79%;
+  top: 3%;
+  }
+  .a6{
+    color: lightslategray;
+    opacity: calc(1);
+    font-style: italic;
+    font-size: 1.1rem;
+    text-decoration: underline;
+    text-underline-offset: 10px;
+    text-decoration-color: green;
+    position: absolute;
+    left: 75%;
+    top: 10%;
+    font-weight: bold;
+  }
+  .a7{
+    color: lightslategray;
+  opacity: calc(1);
+  font-style: italic;
+  font-size: 1.1rem;
+  text-underline-offset: 10px;
+  position: absolute;
+  left: 76%;
+  top: 16.5%;
+  font-weight: bold;
+  }
