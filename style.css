@@ -102,13 +102,17 @@ letter-spacing: 0.1cm;
 font-family: Oswald;
 font-weight: bold;
 }
-.img2{
-  display: flex;
-  justify-content: center;
+.se1{
+position: absolute;
+top: 40%;
+left: 33%;
+width: 30%;
+}
+.img1{
   position: absolute;
-  left: 93%;
-  top: 31%;
-  width: 7%;
-  height: 7%;
+top: 33.5%;
+left: 93.5%;
+width: 2.5%;
+height: 2.5%;
 }
   
